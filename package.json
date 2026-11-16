@@ -1,0 +1,10 @@
+{
+  "name": "status-for-the-night",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-pages.mjs",
+    "test": "node --test",
+    "dev": "node scripts/dev.mjs"
+  }
+}

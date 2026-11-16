@@ -1,0 +1,7 @@
+private/
+site-data/
+.env
+.env.*
+node_modules/
+.wrangler/
+dist/
